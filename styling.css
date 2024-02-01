@@ -1,0 +1,29 @@
+main{
+    padding: 0px 20px 20px 20px;
+}
+.carousel>.carousel-inner>.carousel-item>img{
+    padding: 0px 50px 50px 50px;
+    width: 800px;
+    height: 600px;
+    align-content: center;
+}
+.navbar{
+    align-items: center;
+    font-size: 2.5rem;
+    text-decoration: solid;
+    background-color: black;
+    color: beige;
+}
+.navbar img{
+    height: 60px;
+    width: 60px;
+}
+.registration{
+    background-color:darkgray;
+    padding: 10px;
+}
+.about{
+    padding: 0px 100px 0px 100px;
+    background-color: lightgrey;
+    text-align: justify;
+}
