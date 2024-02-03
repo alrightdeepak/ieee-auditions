@@ -34,7 +34,7 @@ main{
     width: 3rem;
 }
 #registration{
-    background-image: linear-gradient(rgb(67, 161, 243), #0E2954);
+    background-image: linear-gradient(rgb(16, 81, 177), #0E2954);
     color:rgb(255, 255, 255);
     font-family:Georgia, 'Times New Roman', Times, serif;
     padding: 1rem;
