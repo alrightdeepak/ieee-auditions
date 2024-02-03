@@ -2,18 +2,19 @@
     font-family: Sans-Serif-Shadow;
     src: url(./media/SansSerifShaded.ttf);
 }
-body{
+/* body{
     background-image: url(./media/lo\ \(1\).png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: 300px;
-}
+} */
 main{
     padding: 0px 20px 20px 20px;
 }
 .carousel>.carousel-inner>.carousel-item>img{
-    padding-bottom: 25px;
+    padding-bottom: 20px;
+    padding-top: 20px;
     height: 25rem;
     align-content: center;
 }
@@ -44,5 +45,4 @@ main{
     color: #003e79;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: justify;
-    z-index: 1;
 }
